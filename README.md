@@ -26,10 +26,17 @@
 Bom desde que me conheço por gente e tive a oprtunidade de usar um computador eu me apaxonei, tive sorte e facilidade de ter contato com a área da tecnologia pois meu pai também gosta dessa área, o que facilitou minha decisão em fazer curso técnico em informática. Eu nunca tinha programado nada na minha vida antes, e hoje eu não consegui me ver sem estar programando algo, por isso escolhi o ramo da tecnologia como sendo parte da minha vida, e hoje por mais que bugs ou imprevistos aparecam no meu código e eu a primeira vista não saiba o que são, eu não desisto, ergo minha cabeça, penso, fala muito sozinho tentando resolver o problema risos, estudo muito, passo raiva com aqueles ponto e vírgulas faltantes, mas eu não desisto de continuar a ser melhor do que o meu eu de ontem, e melhor ainda do que o meu eu de agora.
 </p>
 
+:computer: Meus princiapais trabalhos:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=autoMensageria)](https://github.com/gabrielheiwa/autoMensageria)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=wpp_extension)](https://github.com/gabrielheiwa/wpp_extension)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=agendaReactJS)](https://github.com/gabrielheiwa/agendaReactJS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero)](https://github.com/gabrielheiwa/be-the-hero)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend)](https://github.com/gabrielheiwa/be-the-hero-frontend)
+
 [![Heiwa github stats](https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true)](https://github.com/windard)
 
 - 📫 Como falar ou entrar em contato comigo:
-
 
 <p align="center">
   <a href="https://www.instagram.com/gabr.el_paz/?hl=pt-br" rel="nofollow" spellcheck="false" target="_blank">
