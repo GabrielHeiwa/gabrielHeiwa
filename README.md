@@ -9,7 +9,7 @@
 
 🌱 Meus estudo no momento são:
 
-<table align="center">
+<table align="center" width="500">
     <tr>
       <th><img src="https://img.icons8.com/color/48/000000/javascript.png"/></th>
       <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48"</th>
@@ -20,6 +20,8 @@
       <th><img src="https://img.icons8.com/doodle/48/000000/github--v1.png"/></th>
     </tr>
 </table>
+
+<img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielheiwa&layout=compact&theme=dark"/>
 
 :man: Um pouco sobre mim:<br>
 <p align="justify">
