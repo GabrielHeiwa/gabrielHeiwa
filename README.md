@@ -32,11 +32,21 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
 
 :computer: Meus princiapais trabalhos:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=autoMensageria)](https://github.com/gabrielheiwa/autoMensageria)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=wpp_extension)](https://github.com/gabrielheiwa/wpp_extension)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=agendaReactJS)](https://github.com/gabrielheiwa/agendaReactJS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero)](https://github.com/gabrielheiwa/be-the-hero)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend)](https://github.com/gabrielheiwa/be-the-hero-frontend)
+<a href="https://github.com/gabrielheiwa/autoMensageria">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=autoMensageria"/>
+</a>
+<a href="https://github.com/gabrielheiwa/wpp_extension">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=wpp_extension"/>
+</a>
+<a href="https://github.com/gabrielheiwa/agendaReactJS">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=agendaReactJS"/>
+</a>
+<a href="https://github.com/gabrielheiwa/be-the-hero">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero"/>
+</a>
+<a href="https://github.com/gabrielheiwa/be-the-hero-frontend">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend"/>
+</a>
 
 [![Heiwa github stats](https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true)](https://github.com/windard)
 
