@@ -33,22 +33,22 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
 :computer: Meus princiapais trabalhos:
 
 <a href="https://github.com/gabrielheiwa/autoMensageria">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=autoMensageria&theme=dark"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=autoMensageria"/>
 </a>
 <a href="https://github.com/gabrielheiwa/wpp_extension">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=wpp_extension&theme=dark"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=wpp_extension"/>
 </a>
 <a href="https://github.com/gabrielheiwa/agendaReactJS">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=agendaReactJS&theme=dark"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=agendaReactJS"/>
 </a>
 <a href="https://github.com/gabrielheiwa/be-the-hero">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero&theme=dark"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero"/>
 </a>
 <a href="https://github.com/gabrielheiwa/be-the-hero-frontend">
-    <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend&theme=dark"/>
+    <img width="49%" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend"/>
 </a>
 <a href="https://github.com/windard">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&theme=dark" width="49%" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&theme=dark" width="49%" height="250"/>
 </a>
 
 - 📫 Como falar ou entrar em contato comigo:
