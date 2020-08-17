@@ -1,8 +1,27 @@
-### Hi there 👋
+### Olá 👋, me chamo Gabriel Paz dos Santos
 
-- 🔭 Eu estou trabalhando atualmento como bolsista resolvendo problemas voltados ao âmbito educacional.
+- 🔭 Eu estou atualmente estudo e trabalho como bolsista na minha faculdade, fazendo o papel de dev, usando da programação para resolver problemas em âmbito educacional do instituto.
+
+
+<table align="center">
+  <tr>
+   <th>
+     <a href="https://www.pet.ifc-camboriu.edu.br/">
+       <img alt="Programa de estudo tutorial" " src="https://www.pet.ifc-camboriu.edu.br/wp-content/uploads/2018/10/Logo-PET.png" width="48"/>
+     </a>
+   </th>                                                                                                                                        
+
+   <th>                                                                                                                                          
+     <a href="http://www.camboriu.ifc.edu.br/">
+         <img alt="Instuto Federal Catarinense Campus Camboriú" src="http://www.camboriu.ifc.edu.br/wp-content/themes/ifc-v2/assets/images/logo-ifc.png" height="32" width="88"/>
+     </a>
+   </th>
+  </tr>
+</table>
+
+
 - 🌱 Eu estou aprendendo atualmento sobre:
-<br>
+
 
 <table align="center">
   <thead>
@@ -24,7 +43,7 @@
     </tr>
 </table>
 
-<br>
+<hr>
 
 - :man: Um pouco sobre mim:<br>
 <p align="justify">
