@@ -48,7 +48,7 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend"/>
 </a>
 <a href="https://github.com/windard">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=false&theme=dark" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&hide=issues,prs&theme=vue" width="49%"/>
 </a>
 
 - 📫 Como falar ou entrar em contato comigo:
