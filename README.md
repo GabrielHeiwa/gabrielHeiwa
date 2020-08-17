@@ -4,6 +4,9 @@
 - 🌱 Eu estou aprendendo atualmento sobre typescript, reactJS, electron, entre outros.
 - 📫 Como falar ou entrar em contato comigo:
 
+[![](https://img.icons8.com/doodle/48/000000/instagram-new.png)](https://www.instagram.com/gabr.el_paz/?hl=pt-br)
+
+
 <p align="center">
   <a href="https://www.instagram.com/gabr.el_paz/?hl=pt-br" rel="nofollow" spellcheck="false" target="_blank">
     <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" /></a>
