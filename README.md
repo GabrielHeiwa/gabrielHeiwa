@@ -5,7 +5,8 @@
 - 📫 Como falar ou entrar em contato comigo:
 
 <p align="center">
-  <a href="https://www.instagram.com/gabr.el_paz/?hl=pt-br" rel="nofollow" target="_blank" dir="auto"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" /></a>
+  <a href="https://www.instagram.com/gabr.el_paz/?hl=pt-br" rel="nofollow" spellcheck="false" target="_blank">
+    <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" /></a>
   <a href="https://www.linkedin.com/in/gabriel-paz-120ab1198/"><img src="https://img.icons8.com/doodle/48/000000/linkedin.png" /></a>
 </p>
 
