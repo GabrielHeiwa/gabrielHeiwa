@@ -7,7 +7,7 @@
   <tr>
    <th>
      <a href="https://www.pet.ifc-camboriu.edu.br/">
-       <img alt="Programa de estudo tutorial" " src="https://www.pet.ifc-camboriu.edu.br/wp-content/uploads/2018/10/Logo-PET.png" width="48"/>
+       <img alt="Programa de estudo tutorial" height="38" src="https://www.pet.ifc-camboriu.edu.br/wp-content/uploads/2018/10/Logo-PET.png" width="48"/>
      </a>
    </th>                                                                                                                                        
 
