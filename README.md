@@ -48,7 +48,7 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend"/>
 </a>
 <a href="https://github.com/windard">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&hide=issues,prs&theme=vue" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&hide=issues,contribs&theme=vue" width="49%"/>
 </a>
 
 - 📫 Como falar ou entrar em contato comigo:
@@ -62,4 +62,3 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5547984288351&text=Oie%2C%20eu%20te%20conheci%20pelo%20seu%20README!">
     <img src="https://img.icons8.com/doodle/48/000000/whatsapp.png"/>
 </a>
-
