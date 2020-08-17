@@ -45,7 +45,7 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero"/>
 </a>
 <a href="https://github.com/gabrielheiwa/be-the-hero-frontend">
-    <img width="49%" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend"/>
+    <img width="49%" height="500" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend"/>
 </a>
 <a href="https://github.com/windard">
     <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&theme=dark" width="49%" height="250"/>
