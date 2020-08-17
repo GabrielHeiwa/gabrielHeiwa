@@ -21,7 +21,9 @@
     </tr>
 </table>
 
-<img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielheiwa&layout=compact&theme=dark"/>
+<p align="center">
+    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielheiwa&layout=compact&theme=dark"/>
+</p>
 
 :man: Um pouco sobre mim:<br>
 <p align="justify">
@@ -40,9 +42,13 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
 
 - 📫 Como falar ou entrar em contato comigo:
 
-<p align="center">
-  <a href="https://www.instagram.com/gabr.el_paz/?hl=pt-br" rel="nofollow" spellcheck="false" target="_blank">
-    <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-paz-120ab1198/"><img src="https://img.icons8.com/doodle/48/000000/linkedin.png" /></a>
-</p>
+<a href="https://www.instagram.com/gabr.el_paz/?hl=pt-br" target="_blank">
+  <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/gabriel-paz-120ab1198/">
+    <img src="https://img.icons8.com/doodle/48/000000/linkedin.png" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5547984288351&text=Oie%2C%20eu%20te%20conheci%20pelo%20seu%20README!">
+    <img src="https://img.icons8.com/doodle/48/000000/whatsapp.png"/>
+</a>
 
