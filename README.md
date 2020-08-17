@@ -22,7 +22,7 @@
 </table>
 
 <p align="center">
-    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielheiwa&layout=compact&theme=nord&card_width=500"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielheiwa&layout=compact&theme=nord&card_width=500"/>
 </p>
 
 :man: Um pouco sobre mim:<br>
@@ -48,7 +48,7 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=be-the-hero-frontend"/>
 </a>
 <a href="https://github.com/windard">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&hide=issues,contribs&theme=nord" width="49%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielheiwa&show_icons=true&hide=issues,contribs&theme=graywhite" width="49%"/>
 </a>
 
 - 📫 Como falar ou entrar em contato comigo:
