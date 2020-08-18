@@ -4,8 +4,8 @@
 
 🔭 Eu estou atualmente estudo no IFC - Campus Camboriú e trabalho como bolsista pelo PET na faculdade, fazendo o papel de dev, usando da programação para resolver problemas em âmbito educacional do instituto.
 
-![PET - Programa de Estudo Tutorial](https://www.pet.ifc-camboriu.edu.br/)<br>
-![IFC - Campus Camboriú]("http://www.camboriu.ifc.edu.br/)                                                                                                                                
+[PET - Programa de Estudo Tutorial](https://www.pet.ifc-camboriu.edu.br/)<br>
+[IFC - Campus Camboriú]("http://www.camboriu.ifc.edu.br/)                                                                                                                                
 
 🌱 Meus estudo no momento são:
 
