@@ -32,12 +32,6 @@ Bom desde que me conheço por gente e tive a oprtunidade de usar um computador e
 
 :computer: Meus princiapais trabalhos:
 
-<a href="https://github.com/gabrielheiwa/autoMensageria">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=autoMensageria"/>
-</a>
-<a href="https://github.com/gabrielheiwa/wpp_extension">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=wpp_extension"/>
-</a>
 <a href="https://github.com/gabrielheiwa/agendaReactJS">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielheiwa&repo=agendaReactJS"/>
 </a>
